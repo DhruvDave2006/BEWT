@@ -1,0 +1,2 @@
+JS - Ajax
+Java - Servlet, JSP(Apache Tomcat)

@@ -1,0 +1,9 @@
+The Package. json file contains the metadata of Projects. It contains the dependencies of project. It's a plain text file written in JSON format and located in project's root directory. 
+
+Key Field : 
+Name : Name of the project.
+Version : Version of the project.
+main : The entry file of Project.
+Author : Creator of the project.
+License : Defines the project license. (e.g. ISC - Local availability. )
+Dependencies : Use full packages for project. 

@@ -1,0 +1,17 @@
+{
+  "name": "npm-lab-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhruv Dave",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^2.2.1",
+    "dhruv": "^1.0.3",
+    "node-addon-api": "^8.5.0",
+    "set-cookie-parser": "^2.7.2"
+  }
+}
